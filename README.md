@@ -1,9 +1,5 @@
 # Youtube Subscriptions for iPodShuffle 2nd gen
 
-## The pitch:
-
-A way to stay up to date with new information on a non-smart
-
 ## What this does:
 
 1. Downloads youtube videos from your list of channels
